@@ -1,0 +1,12 @@
+# Valyuta Bot
+
+Telegram bot orqali O‘zbekiston Markaziy banki valyuta kurslarini ko‘rish mumkin.
+
+- USD — Dollar
+- EUR — Yevro
+- RUB — Rubl
+- GBP — Funt
+- CNY — Yuan
+- KZT — Tenge
+
+Python 3.13 va aiogram yordamida yaratilgan.
